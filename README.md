@@ -17,3 +17,5 @@ The component should fetch data from the back-end described below.
 - npm run build
 - npm start
 ```
+
+### Dependency - Backend spring boot server (https://github.com/msoni89/currency-converter.git)
