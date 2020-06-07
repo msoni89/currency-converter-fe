@@ -13,3 +13,9 @@ daily/weekly chart - with 60 minutes interval, monthly chart - with 1-day interv
 
 The component should fetch data from the back-end described below.
 ### Supported currencies: EUR, USD, GBP
+
+### Build
+```
+- npm run build
+- npm start
+```
