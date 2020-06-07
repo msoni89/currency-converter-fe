@@ -47,7 +47,10 @@ export const getCurrency = (): Promise<ICurrencyDto[]> => {
 };
 
 export const triggerEvent = (from: string, to: string): Promise<IEventResponse> => {
-    return fetch(`/v1/trigger/from/${from}/to/${to}`)
+    const requestOptions = {
+        method: 'PUT',
+    };
+    return fetch(`/v1/rates/from/${from}/to/${to}`, requestOptions)
         .then(res => res.json())
         .then(res => formatEvent(res));
 };
