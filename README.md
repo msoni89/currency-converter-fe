@@ -1,8 +1,6 @@
 
-# Currency Converter
-## Front End:
-
-### Implement React component - currency calculator.
+## Currency Converter
+### Front End:Implement React component - currency calculator.
 ```
 The component should implement the possibility of converting different currencies using
 current exchange rate. Also, this component should draw swing chart (or candle chart) for
