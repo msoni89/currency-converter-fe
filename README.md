@@ -19,3 +19,16 @@ The component should fetch data from the back-end described below.
 ```
 
 ### Dependency - Backend spring boot server (https://github.com/msoni89/currency-converter.git)
+
+### Success boot logs
+
+```
+[./src/index.tsx] 339 bytes {main} [built]
+    + 412 hidden modules
+Child HtmlWebpackCompiler:
+     1 asset
+    Entrypoint HtmlWebpackPlugin_0 = __child-HtmlWebpackPlugin_0
+    [./node_modules/html-webpack-plugin/lib/loader.js!./index.html] 691 bytes {HtmlWebpackPlugin_0} [built]
+i ｢wdm｣: Compiled successfully.
+
+```
