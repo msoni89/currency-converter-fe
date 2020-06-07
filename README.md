@@ -32,3 +32,4 @@ Child HtmlWebpackCompiler:
 i ｢wdm｣: Compiled successfully.
 
 ```
+![Alt text](C:\Users\wel come\Desktop\screenshot-1/1.jpg?raw=true "Snaphot 1")
